@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mega Sena Compose</string>
+    <string name="welcome">Boa Sorte!</string>
+    <string name="gen_numbers_txt">GERAR NÚMEROS</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="logo_desc">Logo mega-sena</string>
 </resources>
